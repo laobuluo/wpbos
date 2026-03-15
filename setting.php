@@ -22,10 +22,10 @@ if (!defined('ABSPATH')) {
            <span class="wbs-span">WPBOS百度云对象存储插件</span><span class="wbs-free">Free V3.1</span>
         </div>
         <div class="laobuluo-wbs-btn">
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/1108.html" target="_blank">
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/7168.html" target="_blank">
                 <i class="layui-icon layui-icon-home"></i> 插件主页
             </a>
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/contact/" target="_blank">
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank">
                 <i class="layui-icon layui-icon-release"></i> 技术支持
             </a>
         </div>
@@ -164,7 +164,7 @@ if (!defined('ABSPATH')) {
                      <blockquote class="layui-elem-quote">
                         <p>1. 网站本地已有静态文件，需要在测试兼容插件之后，将本地文件对应目录上传到对象存储目录中。</p>
                         <p>2. 初次使用对象存储插件，可以通过下面按钮一键快速替换网站内容中的原有图片地址更换为百度云存储地址</p>
-                        <p>3. 如果是从其他对象存储或者外部存储替换的，可用 <a href="https://www.lezaiyun.com/wpreplace.html" target="_blank">WPReplace</a> 插件替换。</p>
+                        <p>3. 如果是从其他对象存储或者外部存储替换的，可用 WPReplace 插件替换。</p>
                         <p>4. 建议不熟悉的朋友先备份网站和数据。</p>
                     </blockquote>
                     <form class="layui-form wpcosform" action="<?php echo wp_nonce_url('./admin.php?page=' . $this->base_folder . '/index.php'); ?>" name="wpbosform2" method="post">
@@ -226,7 +226,7 @@ if (!defined('ABSPATH')) {
                     <span class="codeshow"></span>
                 </div>
                 <div class="laobuluo-links">
-                    <a href="https://www.lezaiyun.com/"  target="_blank">乐在云工作室</a>
+                    <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
                     <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
                     <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
                     <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>
